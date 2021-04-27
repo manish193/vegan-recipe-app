@@ -1,0 +1,88 @@
+.header{
+    border-style: inset;
+    padding: 20px;
+    background-image: url('./lib.jpg');
+  
+  
+  }
+  h1.head1{
+  
+    font-size: 40px;
+    font-style: bold;
+  }
+  .timing{
+    text-align: left;
+  }
+  .body{
+    text-align: center;
+    padding: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-style: outset;
+  
+    font-size: 20px;
+    background-image: url('./lib.jpg');
+
+    font-style: oblique;
+  
+  }
+  img {
+    max-height: fit-content;
+    max-width: 100%;
+    align-items: center;
+  }
+  .ingredients {
+    background-color: azure;
+    font-size:18px !important;
+    border-style: outset ;
+    font-style: bold;
+    padding: 15px;
+
+
+  }
+  h2 {
+    text-align: center;
+    font-size: 40px;
+    border-style: outset ;
+
+  }
+  h1 {
+    border-style: dashed;
+    border-style: outset;
+
+    text-align: center;
+    font-weight: bold;
+    font-family: bold;
+    font-size: 50px;
+  }
+  .instructions {
+    background-color: rgb(144, 177, 161);
+    font-size:18px !important;
+    border-style: outset !important;
+    font-style: bold;
+    padding: 20px;
+
+  }
+  .body1 {
+    text-align: center;
+    padding: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-style: outset;
+  
+    font-size: 20px;
+    background-color: beige;
+
+    font-style: oblique;
+  }
+  button {
+    text-align: center;
+    padding: 8px;    
+    border-style: outset;
+  
+    font-size: 15px;
+    font-style: bold;
+  }
+  label {
+    font-family: 'Courier New', Courier, monospace;
+  }

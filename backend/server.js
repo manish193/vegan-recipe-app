@@ -7,6 +7,7 @@ require('dotenv').config();
 const app = express();
 app.use(bodyParser.json());
 
+
 const port  = process.env.PORT || 5000;
 app.use(cors());
 const uri = process.env.ATLAS_URI;
